@@ -331,9 +331,9 @@ function balik(x, y, s = 1, renk = '#7FA6B8') {
   return G(tr(x, y, s), `<path d="M-50,0 Q-10,-28 34,0 Q-10,28 -50,0 Z" fill="${renk}" stroke="${OUT}" stroke-width="4"/><path d="M30,0 L60,-20 L60,20 Z" fill="${renk}" stroke="${OUT}" stroke-width="4"/><circle cx="-30" cy="-4" r="4" fill="${OUT}"/>`);
 }
 function sikke(x, y, s = 1, renk = '#E2B54B') { return G(tr(x, y, s), `<circle r="26" fill="${renk}" stroke="${OUT}" stroke-width="4"/><circle r="16" fill="none" stroke="#B88A2A" stroke-width="3"/>`); }
-function sandik(x, y, s = 1, acik = 0) {
+function sandik(x, y, s = 1, acik = 0, bos = false) {
   return G(tr(x, y, s), `<rect x="-90" y="-80" width="180" height="80" fill="#8B5A2B" stroke="${OUT}" stroke-width="5"/>` +
-    (acik ? `<g>${[[-50, -86], [-10, -96], [30, -88], [60, -80], [-30, -100], [10, -110]].map(([a, b]) => sikke(a, b, .8)).join('')}</g>` : '') +
+    (acik && !bos ? `<g>${[[-50, -86], [-10, -96], [30, -88], [60, -80], [-30, -100], [10, -110]].map(([a, b]) => sikke(a, b, .8)).join('')}</g>` : '') +
     `<path d="M-90,-80 L-90,${-110 - acik * 40} Q0,${-140 - acik * 60} 90,${-110 - acik * 40} L90,-80 Z" fill="#9C6A36" stroke="${OUT}" stroke-width="5"/>` +
     `<rect x="-14" y="-90" width="28" height="30" fill="#E2B54B" stroke="${OUT}" stroke-width="4"/>`);
 }

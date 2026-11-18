@@ -1,768 +1,768 @@
 1
-00:00:00,250 --> 00:00:03,410
+00:00:00,250 --> 00:00:03,319
 29 Mayıs 1453, şafak vakti.
 
 2
-00:00:03,590 --> 00:00:07,461
+00:00:03,499 --> 00:00:07,318
 Bin yıldır karadan hiçbir ordunun aşamadığı surların önünde,
 
 3
-00:00:07,461 --> 00:00:11,073
+00:00:07,318 --> 00:00:10,883
 seksen bin kişilik bir ordu son saldırı emrini bekliyor.
 
 4
-00:00:11,773 --> 00:00:17,042
+00:00:11,583 --> 00:00:16,952
 Surların ardında ise bir zamanlar dünyanın en büyük şehri olan Konstantinopolis var.
 
 5
-00:00:17,222 --> 00:00:20,851
+00:00:17,132 --> 00:00:20,717
 Bir zamanlar yarım milyon insanın yaşadığı bu şehirde,
 
 6
-00:00:20,851 --> 00:00:23,942
+00:00:20,717 --> 00:00:23,771
 artık sadece kırk, belki elli bin kişi kalmış.
 
 7
-00:00:24,642 --> 00:00:28,789
+00:00:24,471 --> 00:00:28,602
 Mahallelerin arasında bağlar, bostanlar ve yıkık saraylar var.
 
 8
-00:00:28,969 --> 00:00:32,715
+00:00:28,782 --> 00:00:32,580
 Şehir artık, dev surların içine sıkışmış küçük köyler gibi.
 
 9
-00:00:33,415 --> 00:00:36,989
+00:00:33,280 --> 00:00:36,732
 Peki sen bu şehrin halkından biri olsaydın, ne olurdu?
 
 10
-00:00:37,169 --> 00:00:40,292
+00:00:36,912 --> 00:00:40,141
 Hayatın, hangi kapıda doğduğuna göre bambaşka olurdu.
 
 11
-00:00:40,472 --> 00:00:42,162
+00:00:40,321 --> 00:00:42,059
 O halde en alttan başlayalım.
 
 12
-00:00:43,162 --> 00:00:44,093
+00:00:43,059 --> 00:00:44,002
 Birinci rütbe:
 
 13
-00:00:44,393 --> 00:00:45,542
+00:00:44,302 --> 00:00:45,441
 Yoksul balıkçı.
 
 14
-00:00:46,692 --> 00:00:47,396
+00:00:46,591 --> 00:00:47,324
 Tebrikler.
 
 15
-00:00:47,576 --> 00:00:50,721
+00:00:47,504 --> 00:00:50,599
 Haliç kıyısında, ahşap bir kulübede uyanıyorsun.
 
 16
-00:00:50,901 --> 00:00:56,340
+00:00:50,779 --> 00:00:56,260
 Evin tek odalı, çatın akıtıyor ve kapının önünde kurumaya bırakılmış ağların var.
 
 17
-00:00:57,040 --> 00:01:00,766
+00:00:56,960 --> 00:01:00,721
 Her sabah sandalına binip palamut ve uskumru peşine düşüyorsun.
 
 18
-00:01:00,946 --> 00:01:06,302
+00:01:00,901 --> 00:01:06,246
 Tuttuğun balığı pazarda satıp kendine biraz arpa ekmeği, biraz da zeytin alıyorsun.
 
 19
-00:01:07,002 --> 00:01:09,171
+00:01:06,946 --> 00:01:09,129
 Ama Nisan ayında her şey değişiyor.
 
 20
-00:01:09,351 --> 00:01:13,635
+00:01:09,309 --> 00:01:13,500
 Haliç'in ağzına, kocaman demir halkalardan dev bir zincir geriliyor.
 
 21
-00:01:13,815 --> 00:01:15,709
+00:01:13,680 --> 00:01:15,536
 Artık açık denize çıkamıyorsun.
 
 22
-00:01:16,409 --> 00:01:20,972
+00:01:16,236 --> 00:01:20,770
 Çünkü Boğaz'ın kıyısında, bir yıl önce Sultan Mehmed'in yaptırdığı bir hisar
 
 23
-00:01:20,972 --> 00:01:21,633
+00:01:20,770 --> 00:01:21,426
 yükseliyor.
 
 24
-00:01:21,813 --> 00:01:22,798
+00:01:21,606 --> 00:01:22,628
 Adı Boğazkesen.
 
 25
-00:01:22,978 --> 00:01:26,884
+00:01:22,808 --> 00:01:26,697
 Oradan izinsiz geçmeye çalışan gemiler, toplarla batırılıyor.
 
 26
-00:01:27,584 --> 00:01:31,115
+00:01:27,397 --> 00:01:30,910
 Kuşatma başlayınca senden ağ değil, taş taşıman isteniyor.
 
 27
-00:01:31,295 --> 00:01:33,252
+00:01:31,090 --> 00:01:32,970
 Gündüz gülleler surları dövüyor.
 
 28
-00:01:33,432 --> 00:01:36,739
+00:01:33,150 --> 00:01:36,450
 Gece ise sen ve komşuların, kadın erkek demeden,
 
 29
-00:01:36,739 --> 00:01:41,149
+00:01:36,450 --> 00:01:40,850
 yıkılan yerleri toprak dolu fıçılar ve kazıklarla onarıyorsunuz.
 
 30
-00:01:41,849 --> 00:01:43,995
+00:01:41,550 --> 00:01:43,710
 Erzak her gün biraz daha azalıyor.
 
 31
-00:01:44,175 --> 00:01:48,650
+00:01:43,890 --> 00:01:48,417
 Surdaki pek çok adam, ailesine yiyecek bulmak için nöbetini bırakmak zorunda
 
 32
-00:01:48,650 --> 00:01:49,121
+00:01:48,417 --> 00:01:48,893
 kalıyor.
 
 33
-00:01:49,821 --> 00:01:53,158
+00:01:49,593 --> 00:01:52,987
 Ve 29 Mayıs sabahı, çanlar çalmaya başlıyor.
 
 34
-00:01:53,338 --> 00:01:55,699
+00:01:53,167 --> 00:01:55,573
 Ama bu kez dua için değil, alarm için.
 
 35
-00:01:55,879 --> 00:01:58,562
+00:01:55,753 --> 00:01:58,430
 Sen de binlerce kişi gibi Ayasofya'ya koşuyorsun.
 
 36
-00:01:59,262 --> 00:02:01,916
+00:01:59,130 --> 00:02:01,784
 Çünkü şehirde eski bir kehanet anlatılıyor:
 
 37
-00:02:02,216 --> 00:02:07,430
+00:02:02,084 --> 00:02:07,267
 Düşman Ayasofya'ya kadar gelirse, gökten bir melek inecek ve şehri kurtaracak.
 
 38
-00:02:07,610 --> 00:02:10,158
+00:02:07,447 --> 00:02:10,021
 Kapıları içeriden kapatıp bekliyorsunuz.
 
 39
-00:02:10,858 --> 00:02:11,844
+00:02:10,721 --> 00:02:11,710
 Melek gelmiyor.
 
 40
-00:02:12,024 --> 00:02:13,183
+00:02:11,890 --> 00:02:12,990
 Kapılar kırılıyor.
 
 41
-00:02:13,363 --> 00:02:16,152
+00:02:13,170 --> 00:02:16,020
 O dönemin acımasız savaş kurallarına göre,
 
 42
-00:02:16,152 --> 00:02:19,870
+00:02:16,020 --> 00:02:19,821
 kılıç zoruyla alınan bir şehrin halkı ganimet sayılıyor.
 
 43
-00:02:20,050 --> 00:02:22,466
+00:02:20,001 --> 00:02:22,334
 Sen de binlerce kişi gibi esir düşüyorsun.
 
 44
-00:02:23,166 --> 00:02:24,833
+00:02:23,034 --> 00:02:24,687
 Ama hikâyen burada bitmiyor.
 
 45
-00:02:25,013 --> 00:02:28,353
+00:02:24,867 --> 00:02:28,244
 Fidyeyle ya da Sultan'ın kararıyla özgürlüğüne kavuşursan,
 
 46
-00:02:28,353 --> 00:02:29,850
+00:02:28,244 --> 00:02:29,758
 şehre geri dönebiliyorsun.
 
 47
-00:02:30,030 --> 00:02:34,931
+00:02:29,938 --> 00:02:34,746
 Çünkü yeni padişahın, boşalmış başkentinde senin gibi balıkçılara ihtiyacı var.
 
 48
-00:02:35,931 --> 00:02:36,881
+00:02:35,746 --> 00:02:36,698
 İkinci rütbe:
 
 49
-00:02:37,181 --> 00:02:37,761
+00:02:36,998 --> 00:02:37,598
 Keşiş.
 
 50
-00:02:38,911 --> 00:02:42,968
+00:02:38,748 --> 00:02:42,680
 Bu sefer Pantokrator Manastırı'nda, siyah cüppeli bir keşişsin.
 
 51
-00:02:43,148 --> 00:02:46,808
+00:02:42,861 --> 00:02:46,569
 Şehirde onlarca manastır var ve senin hayatın dua,
 
 52
-00:02:46,808 --> 00:02:50,102
+00:02:46,569 --> 00:02:49,907
 oruç ve el yazması kitaplar arasında geçiyor.
 
 53
-00:02:50,802 --> 00:02:52,807
+00:02:50,607 --> 00:02:52,646
 Ama manastırın içi de huzursuz.
 
 54
-00:02:52,987 --> 00:02:58,849
+00:02:52,826 --> 00:02:58,605
 Aralık ayında Ayasofya'da, Katolik ve Ortodoks kiliselerinin birleştiği ilan edildi.
 
 55
-00:02:59,029 --> 00:03:02,082
+00:02:58,785 --> 00:03:01,957
 İmparator bunu Batı'dan yardım alabilmek için yaptı.
 
 56
-00:03:02,262 --> 00:03:06,158
+00:03:02,137 --> 00:03:05,943
 Ama halkın çoğu, ve senin gibi keşişler, buna çok öfkeli.
 
 57
-00:03:06,858 --> 00:03:10,964
+00:03:06,643 --> 00:03:10,774
 Hatta şehrin en güçlü adamlarından birinin şöyle dediği anlatılır:
 
 58
-00:03:11,264 --> 00:03:15,849
+00:03:11,074 --> 00:03:15,748
 Şehrin ortasında Latin külahı görmektense, Türk sarığı görmeyi yeğlerim.
 
 59
-00:03:16,549 --> 00:03:19,226
+00:03:16,448 --> 00:03:19,155
 Kuşatma başlayınca sen de kollarını sıvıyorsun.
 
 60
-00:03:19,406 --> 00:03:22,552
+00:03:19,335 --> 00:03:22,550
 Keşişler surlara taş taşıyor, yaralılara bakıyor.
 
 61
-00:03:22,732 --> 00:03:27,559
+00:03:22,730 --> 00:03:27,626
 Bir gün de şehrin en kutsal ikonasıyla sokaklarda dua alayı düzenliyorsunuz.
 
 62
-00:03:28,259 --> 00:03:31,696
+00:03:28,326 --> 00:03:31,790
 Ama ikona birden taşıyanların elinden kayıp yere düşüyor.
 
 63
-00:03:31,876 --> 00:03:34,978
+00:03:31,970 --> 00:03:35,188
 Kaldırmaya çalışıyorsunuz, ama sanki kurşun gibi ağır.
 
 64
-00:03:35,158 --> 00:03:38,349
+00:03:35,368 --> 00:03:38,510
 Hemen ardından şiddetli bir dolu fırtınası kopuyor.
 
 65
-00:03:38,529 --> 00:03:40,001
+00:03:38,690 --> 00:03:40,268
 Halk bunu, kötüye yoruyor.
 
 66
-00:03:40,701 --> 00:03:43,406
+00:03:40,968 --> 00:03:43,673
 Şehir düştüğünde manastırların çoğu yağmalanıyor.
 
 67
-00:03:43,586 --> 00:03:45,240
+00:03:43,853 --> 00:03:45,452
 Ama işin ilginç yanı şu:
 
 68
-00:03:45,540 --> 00:03:50,973
+00:03:45,752 --> 00:03:51,270
 Birkaç ay sonra Sultan Mehmed, Birliğe en sert karşı çıkan keşişlerden Gennadios'u
 
 69
-00:03:50,973 --> 00:03:53,822
+00:03:51,270 --> 00:03:54,164
 buldurup, onu Rum Ortodoks patriği yapıyor.
 
 70
-00:03:54,522 --> 00:03:56,911
+00:03:54,864 --> 00:03:57,216
 Yani keşişsen ve şansın yaver giderse,
 
 71
-00:03:56,911 --> 00:04:00,808
+00:03:57,216 --> 00:04:01,054
 kilisenin yeni bir düzende yaşamaya devam ettiğini görüyorsun.
 
 72
-00:04:00,988 --> 00:04:02,427
+00:04:01,234 --> 00:04:02,607
 Hem de Sultan'ın eliyle.
 
 73
-00:04:03,427 --> 00:04:04,454
+00:04:03,607 --> 00:04:04,591
 Üçüncü rütbe:
 
 74
-00:04:04,754 --> 00:04:05,580
+00:04:04,891 --> 00:04:05,746
 Sur askeri.
 
 75
-00:04:06,730 --> 00:04:10,711
+00:04:06,896 --> 00:04:10,975
 Şimdi elinde mızrak, sırtında yamalı bir zırhla Kara Surları'ndasın.
 
 76
-00:04:10,891 --> 00:04:13,496
+00:04:11,155 --> 00:04:13,802
 Bu surlar, çağın en güçlü savunma hattı:
 
 77
-00:04:13,796 --> 00:04:19,350
+00:04:14,102 --> 00:04:19,721
 Önce derin bir hendek, sonra bir dış sur, ardından on iki metrelik devasa iç sur.
 
 78
-00:04:20,050 --> 00:04:20,970
+00:04:20,421 --> 00:04:21,345
 Tek sorun şu:
 
 79
-00:04:21,270 --> 00:04:24,517
+00:04:21,645 --> 00:04:24,926
 Kara ve deniz surları toplam yirmi kilometreyi aşıyor.
 
 80
-00:04:24,697 --> 00:04:28,458
+00:04:25,106 --> 00:04:28,751
 Sizse yabancılarla birlikte, topu topu yedi bin kişisiniz.
 
 81
-00:04:28,638 --> 00:04:31,498
+00:04:28,931 --> 00:04:31,719
 Karşınızdaki ordu ise, en az seksen bin kişi.
 
 82
-00:04:32,198 --> 00:04:34,663
+00:04:32,419 --> 00:04:34,801
 Komutanın, Cenevizli bir paralı asker:
 
 83
-00:04:34,963 --> 00:04:35,726
+00:04:35,101 --> 00:04:35,866
 Giustiniani.
 
 84
-00:04:35,906 --> 00:04:39,455
+00:04:36,046 --> 00:04:39,506
 Yanında yedi yüz adamıyla gelmiş ve savunmanın beyni o.
 
 85
-00:04:40,155 --> 00:04:41,166
+00:04:40,206 --> 00:04:41,317
 Ve sonra o ses!
 
 86
-00:04:41,346 --> 00:04:44,340
+00:04:41,497 --> 00:04:44,562
 Macar usta Orban'ın döktüğü dev top ateşleniyor.
 
 87
-00:04:44,520 --> 00:04:45,957
+00:04:44,742 --> 00:04:46,167
 Güllesi yüzlerce kilo.
 
 88
-00:04:46,137 --> 00:04:49,376
+00:04:46,347 --> 00:04:49,608
 Top o kadar yavaş ki günde ancak birkaç kez atabiliyor.
 
 89
-00:04:49,556 --> 00:04:53,462
+00:04:49,788 --> 00:04:53,687
 Ama her atışta, bin yıllık surlardan koca bir parça kopuyor.
 
 90
-00:04:54,162 --> 00:04:57,320
+00:04:54,387 --> 00:04:57,521
 Gündüz savaşıyor, gece yıkılan yerleri onarıyorsun.
 
 91
-00:04:57,500 --> 00:04:59,905
+00:04:57,701 --> 00:05:00,127
 Bir de yerin altından gelen tehlike var:
 
 92
-00:05:00,205 --> 00:05:03,346
+00:05:00,427 --> 00:05:03,569
 Osmanlı lağımcıları surların altına tünel kazıyor.
 
 93
-00:05:03,526 --> 00:05:07,554
+00:05:03,749 --> 00:05:07,778
 Sizinkiler de karşı tüneller açıp onları yerin altında yakalıyor.
 
 94
-00:05:08,255 --> 00:05:11,966
+00:05:08,478 --> 00:05:12,241
 29 Mayıs gecesi, son saldırı dalga dalga geliyor.
 
 95
-00:05:12,146 --> 00:05:16,768
+00:05:12,421 --> 00:05:17,059
 Önce başıbozuklar, sonra Anadolu askerleri, en son da yeniçeriler.
 
 96
-00:05:17,468 --> 00:05:20,821
+00:05:17,759 --> 00:05:21,221
 Tam o sırada Giustiniani ağır yaralanıp gemisine taşınıyor.
 
 97
-00:05:21,001 --> 00:05:24,309
+00:05:21,401 --> 00:05:24,773
 Komutanlarının gittiğini gören askerler dağılmaya başlıyor.
 
 98
-00:05:24,489 --> 00:05:29,319
+00:05:24,953 --> 00:05:29,833
 Bir de kuzeyde, Kerkoporta denen küçük bir kapının açık unutulduğu anlatılır.
 
 99
-00:05:30,019 --> 00:05:32,727
+00:05:30,533 --> 00:05:33,289
 Ve surlara ilk Osmanlı sancağı dikiliyor.
 
 100
-00:05:32,907 --> 00:05:35,598
+00:05:33,469 --> 00:05:36,247
 Türk geleneğine göre bunu yapan, Ulubatlı Hasan.
 
 101
-00:05:35,778 --> 00:05:41,000
+00:05:36,427 --> 00:05:41,694
 Bir sur askeri olarak sen ise, büyük ihtimalle ya surlarda can veriyor ya da esir
 
 102
-00:05:41,000 --> 00:05:41,709
+00:05:41,694 --> 00:05:42,409
 düşüyorsun.
 
 103
-00:05:42,709 --> 00:05:43,734
+00:05:43,409 --> 00:05:44,467
 Dördüncü rütbe:
 
 104
-00:05:44,034 --> 00:05:45,041
+00:05:44,767 --> 00:05:45,862
 Yabancı tüccar.
 
 105
-00:05:46,191 --> 00:05:47,937
+00:05:47,012 --> 00:05:48,745
 Bu kez Venedikli bir tüccarsın.
 
 106
-00:05:48,117 --> 00:05:52,006
+00:05:48,925 --> 00:05:52,919
 Şehirde kendi mahallen, kendi kilisen ve kendi iskelelerin var.
 
 107
-00:05:52,186 --> 00:05:55,372
+00:05:53,099 --> 00:05:56,250
 İpek, baharat, şarap ve kürk ticareti yapıyorsun.
 
 108
-00:05:55,552 --> 00:05:58,893
+00:05:56,430 --> 00:05:59,593
 Bizanslılar sizi pek sevmiyor, ama size muhtaçlar.
 
 109
-00:05:59,593 --> 00:06:02,478
+00:06:00,293 --> 00:06:03,204
 Haliç'in karşısındaki Galata ise Cenevizlilerin.
 
 110
-00:06:02,658 --> 00:06:04,132
+00:06:03,384 --> 00:06:04,858
 Onlar resmen tarafsız.
 
 111
-00:06:04,312 --> 00:06:07,050
+00:06:05,038 --> 00:06:07,748
 Hatta gündüz Osmanlı ordugâhına mal satıp,
 
 112
-00:06:07,050 --> 00:06:10,374
+00:06:07,748 --> 00:06:11,039
 gece gizlice surları savunmaya geldikleri söylenir.
 
 113
-00:06:11,074 --> 00:06:14,776
+00:06:11,739 --> 00:06:15,259
 Senin gemilerin, zincirin arkasında, Haliç'te güvende.
 
 114
-00:06:14,956 --> 00:06:16,840
+00:06:15,439 --> 00:06:17,298
 En azından, öyle sanıyorsun.
 
 115
-00:06:17,540 --> 00:06:20,884
+00:06:17,998 --> 00:06:21,379
 22 Nisan sabahı uyandığında gözlerine inanamıyorsun.
 
 116
-00:06:21,064 --> 00:06:23,137
+00:06:21,559 --> 00:06:23,608
 Osmanlı gemileri Haliç'in içinde!
 
 117
-00:06:23,317 --> 00:06:28,006
+00:06:23,788 --> 00:06:28,412
 Sultan, gece boyunca yetmiş kadar gemiyi yağlanmış kızaklar üzerinde,
 
 118
-00:06:28,006 --> 00:06:31,676
+00:06:28,412 --> 00:06:32,031
 Galata'nın arkasındaki tepelerden karadan yürüttürmüş.
 
 119
-00:06:32,376 --> 00:06:35,893
+00:06:32,731 --> 00:06:36,383
 Şehir düştüğü gün, tüccar olmanın avantajını kullanıyorsun:
 
 120
-00:06:36,193 --> 00:06:38,865
+00:06:36,683 --> 00:06:39,389
 Limana koşup bir Venedik gemisine atlıyorsun.
 
 121
-00:06:39,045 --> 00:06:42,704
+00:06:39,569 --> 00:06:43,266
 Gerçekten de o gün bazı Venedik ve Ceneviz gemileri,
 
 122
-00:06:42,704 --> 00:06:45,801
+00:06:43,266 --> 00:06:46,395
 sığınmacılarla dolu halde kaçmayı başarıyor.
 
 123
-00:06:46,501 --> 00:06:50,683
-Ama Venedik balyozu Minotto ve bazı adamları o kadar şanslı değil.
+00:06:47,095 --> 00:06:51,267
+Ama Venedik balyosu Minotto ve bazı adamları o kadar şanslı değil.
 
 124
-00:06:50,863 --> 00:06:52,575
+00:06:51,447 --> 00:06:53,116
 Yakalanıp idam ediliyorlar.
 
 125
-00:06:53,275 --> 00:06:55,559
+00:06:53,816 --> 00:06:56,122
 Galata ise savaşmadan teslim oluyor.
 
 126
-00:06:55,739 --> 00:06:58,497
+00:06:56,302 --> 00:06:59,062
 Sultan, Cenevizlilere bir ahitname veriyor:
 
 127
-00:06:58,797 --> 00:07:01,627
+00:06:59,362 --> 00:07:02,183
 Mallarına ve ticaretlerine dokunulmayacak.
 
 128
-00:07:01,807 --> 00:07:05,524
+00:07:02,363 --> 00:07:05,970
 Yani tüccarsan ve hayatta kalırsan, kazanmaya devam ediyorsun.
 
 129
-00:07:06,524 --> 00:07:07,509
+00:07:06,970 --> 00:07:07,962
 Beşinci rütbe:
 
 130
-00:07:07,809 --> 00:07:08,269
+00:07:08,262 --> 00:07:08,758
 Soylu.
 
 131
-00:07:09,419 --> 00:07:14,641
+00:07:09,908 --> 00:07:15,180
 Şimdi ipek kaftanlar içinde, Bizans'ın en zengin ailelerinden birinin üyesisin.
 
 132
-00:07:14,821 --> 00:07:19,408
+00:07:15,360 --> 00:07:20,145
 Hizmetkârların, atların ve şehrin en güzel konaklarından biri senin.
 
 133
-00:07:19,588 --> 00:07:24,718
+00:07:20,325 --> 00:07:25,443
 Hatta paranın bir kısmını, güvende olsun diye İtalyan bankalarında tutuyorsun.
 
 134
-00:07:25,418 --> 00:07:28,980
+00:07:26,143 --> 00:07:29,643
 Kuşatma başlayınca İmparator, soylulardan yardım istiyor.
 
 135
-00:07:29,160 --> 00:07:33,823
+00:07:29,823 --> 00:07:34,401
 Ama kaynaklara göre zenginlerin bir kısmı servetini saklamayı tercih ediyor.
 
 136
-00:07:34,523 --> 00:07:37,690
+00:07:35,101 --> 00:07:38,216
 Şehir düştüğünde, en güçlü soylu Lukas Notaras,
 
 137
-00:07:37,690 --> 00:07:41,060
+00:07:38,216 --> 00:07:41,529
 Sultan'ın huzuruna çıkarılıp hazinelerini sunuyor.
 
 138
-00:07:41,240 --> 00:07:42,130
+00:07:41,709 --> 00:07:42,652
 Hatırladın mı?
 
 139
-00:07:42,310 --> 00:07:45,543
+00:07:42,832 --> 00:07:45,924
 Latin külahı sözünün sahibi olarak bilinen adam o.
 
 140
-00:07:45,723 --> 00:07:47,972
+00:07:46,104 --> 00:07:48,339
 Anlatılana göre Sultan ona soruyor:
 
 141
-00:07:48,272 --> 00:07:52,821
+00:07:48,639 --> 00:07:53,157
 Bu kadar servetin vardı da, neden imparatoruna ve şehrine vermedin?
 
 142
-00:07:53,521 --> 00:07:59,003
+00:07:53,857 --> 00:07:59,557
 Önce affedilmiş gibi görünse de, birkaç gün sonra Notaras ve oğulları idam ediliyor.
 
 143
-00:07:59,183 --> 00:08:03,847
+00:07:59,737 --> 00:08:04,340
 Yani 1453'te soylu olmak, en tehlikeli rütbelerden biri.
 
 144
-00:08:04,027 --> 00:08:07,579
+00:08:04,520 --> 00:08:08,061
 Çünkü yeni düzende, eski güç sahiplerine pek yer yok.
 
 145
-00:08:08,579 --> 00:08:09,525
+00:08:09,061 --> 00:08:10,013
 Ve son rütbe:
 
 146
-00:08:09,825 --> 00:08:10,568
+00:08:10,313 --> 00:08:11,036
 İmparator.
 
 147
-00:08:11,718 --> 00:08:12,459
+00:08:12,186 --> 00:08:12,904
 Tebrikler.
 
 148
-00:08:12,639 --> 00:08:15,297
+00:08:13,084 --> 00:08:15,678
 Sen, XI. Konstantin Palaiologos'sun.
 
 149
-00:08:15,477 --> 00:08:20,001
+00:08:15,858 --> 00:08:20,350
 Neredeyse bin beş yüz yıldır süren Roma İmparatorluğu'nun son imparatorusun.
 
 150
-00:08:20,181 --> 00:08:24,358
+00:08:20,530 --> 00:08:24,678
 Ama imparatorluğun artık, neredeyse sadece bu şehirden ibaret.
 
 151
-00:08:25,058 --> 00:08:26,105
+00:08:25,378 --> 00:08:26,423
 Hazinen bomboş.
 
 152
-00:08:26,285 --> 00:08:31,266
+00:08:26,603 --> 00:08:31,564
 Askerlerin maaşını ödemek için kiliselerin kutsal gümüş eşyalarını erittiriyorsun.
 
 153
-00:08:31,446 --> 00:08:37,087
+00:08:31,744 --> 00:08:37,553
 Batı'ya yardım için yalvarıyorsun, ama gelen yardım sadece birkaç gemi ve bir avuç
 
 154
-00:08:37,087 --> 00:08:37,500
+00:08:37,553 --> 00:08:37,978
 asker.
 
 155
-00:08:38,200 --> 00:08:40,266
+00:08:38,678 --> 00:08:40,705
 Sultan sana bir teklif gönderiyor:
 
 156
-00:08:40,566 --> 00:08:45,312
+00:08:41,005 --> 00:08:45,717
 Şehri teslim edersen, hazinenle birlikte Mora'ya gidip orada hüküm sürebilirsin.
 
 157
-00:08:45,492 --> 00:08:47,472
+00:08:45,897 --> 00:08:47,913
 Senin cevabın ise tarihe geçiyor:
 
 158
-00:08:47,772 --> 00:08:52,350
+00:08:48,213 --> 00:08:52,709
 Bu şehri teslim etmek, ne bana ne de burada yaşayan herhangi birine düşer.
 
 159
-00:08:52,530 --> 00:08:55,404
+00:08:52,889 --> 00:08:55,703
 Hepimiz, kendi isteğimizle ölmeye karar verdik.
 
 160
-00:08:56,104 --> 00:08:59,712
+00:08:56,403 --> 00:09:00,107
 28 Mayıs akşamı Ayasofya'da son bir ayin yapılıyor.
 
 161
-00:08:59,892 --> 00:09:05,376
+00:09:00,287 --> 00:09:05,839
 Aylardır birbirine küs olan Ortodokslar ve Katolikler, o gece yan yana dua ediyor.
 
 162
-00:09:05,556 --> 00:09:07,572
+00:09:06,019 --> 00:09:08,035
 Sen de halkından helallik istiyorsun.
 
 163
-00:09:08,272 --> 00:09:13,629
+00:09:08,735 --> 00:09:14,089
 Ve şafakta surlar düştüğünde, rivayete göre imparatorluk nişanlarını üzerinden
 
 164
-00:09:13,629 --> 00:09:18,094
+00:09:14,089 --> 00:09:18,551
 çıkarıyor, kılıcını çekip çarpışmanın en yoğun yerine dalıyorsun.
 
 165
-00:09:18,274 --> 00:09:20,308
+00:09:18,731 --> 00:09:20,770
 Ve bir daha, asla görülmüyorsun.
 
 166
-00:09:21,008 --> 00:09:23,807
+00:09:21,470 --> 00:09:24,150
 Cesedin hiçbir zaman kesin olarak bulunamıyor.
 
 167
-00:09:23,987 --> 00:09:26,699
+00:09:24,330 --> 00:09:26,963
 Bu yüzden Rumlar arasında bir efsane doğuyor:
 
 168
-00:09:26,999 --> 00:09:28,167
+00:09:27,263 --> 00:09:28,418
 Mermer İmparator.
 
 169
-00:09:28,347 --> 00:09:33,910
+00:09:28,598 --> 00:09:34,196
 Bir meleğin seni mermere çevirip Altın Kapı'nın altındaki bir mağarada sakladığına,
 
 170
-00:09:33,910 --> 00:09:37,262
+00:09:34,196 --> 00:09:37,569
 ve bir gün uyanıp şehri geri alacağına inanılıyor.
 
 171
-00:09:37,962 --> 00:09:43,814
+00:09:38,269 --> 00:09:44,035
 29 Mayıs öğleden sonra, yirmi bir yaşındaki Sultan Mehmed şehre giriyor ve doğruca
 
 172
-00:09:43,814 --> 00:09:45,241
+00:09:44,035 --> 00:09:45,441
 Ayasofya'ya gidiyor.
 
 173
-00:09:45,421 --> 00:09:49,716
+00:09:45,621 --> 00:09:49,812
 Dokuz yüz yılı aşkın süredir kilise olan yapıyı camiye çeviriyor.
 
 174
-00:09:49,896 --> 00:09:52,585
+00:09:49,992 --> 00:09:52,709
 O günden sonra, Fatih olarak anılacak.
 
 175
-00:09:53,285 --> 00:09:54,229
+00:09:53,409 --> 00:09:54,341
 Peki ya şehir?
 
 176
-00:09:54,409 --> 00:09:57,434
+00:09:54,521 --> 00:09:57,442
 Fatih, boşalan şehri yeniden doldurmaya başlıyor.
 
 177
-00:09:57,614 --> 00:10:03,129
+00:09:57,622 --> 00:10:03,044
 Anadolu'dan ve Balkanlar'dan Türkler, Rumlar, Ermeniler ve Yahudiler getiriliyor.
 
 178
-00:10:03,309 --> 00:10:06,256
+00:10:03,224 --> 00:10:06,099
 Kaçanlara da geri dönmeleri için çağrı yapılıyor.
 
 179
-00:10:06,956 --> 00:10:11,282
+00:10:06,799 --> 00:10:11,090
 Kırk bin kişilik yorgun şehir, yüz yıl içinde yeniden dünyanın en büyük
 
 180
-00:10:11,282 --> 00:10:12,866
+00:10:11,090 --> 00:10:12,662
 şehirlerinden biri oluyor.
 
 181
-00:10:13,046 --> 00:10:15,031
+00:10:12,842 --> 00:10:14,839
 Ve halk arasındaki adı artık:
 
 182
-00:10:15,331 --> 00:10:16,014
+00:10:15,139 --> 00:10:15,815
 İstanbul.
 
 183
-00:10:16,714 --> 00:10:22,222
+00:10:16,515 --> 00:10:22,146
 Yani 1453'te İstanbul halkından olsaydın, kim olduğun kaderini belirlerdi.
 
 184
-00:10:22,402 --> 00:10:23,772
+00:10:22,326 --> 00:10:23,732
 Tüccar belki kaçabildi.
 
 185
-00:10:23,952 --> 00:10:25,517
+00:10:23,912 --> 00:10:25,529
 Keşiş yeni bir düzen buldu.
 
 186
-00:10:25,697 --> 00:10:27,277
+00:10:25,709 --> 00:10:27,240
 Balıkçı belki evine döndü.
 
 187
-00:10:27,457 --> 00:10:29,947
+00:10:27,420 --> 00:10:29,863
 Ama imparator için, tek bir son vardı.
 
 188
-00:10:30,647 --> 00:10:32,207
+00:10:30,563 --> 00:10:32,109
 Sen hangisi olmak isterdin?
 
 189
-00:10:32,387 --> 00:10:33,397
+00:10:32,289 --> 00:10:33,323
 Yorumlara yaz.
 
 190
-00:10:33,577 --> 00:10:36,968
+00:10:33,503 --> 00:10:36,898
 Bir sonraki bölümde ise surların öbür tarafına geçiyoruz:
 
 191
-00:10:37,268 --> 00:10:41,106
+00:10:37,198 --> 00:10:41,043
 1453'te bir Osmanlı askeri olsaydın ne olurdu?
 
 192
-00:10:41,286 --> 00:10:43,492
+00:10:41,223 --> 00:10:43,417
 Kaçırmamak için abone olmayı unutma.
 

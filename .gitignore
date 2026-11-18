@@ -1,0 +1,5 @@
+build/
+node_modules/
+*.tmp
+cikti/kareler/
+cikti/parca_*.mp4

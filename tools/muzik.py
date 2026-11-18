@@ -27,6 +27,14 @@ def yaz_wav(p, x):
         w.writeframes((x * 32767).astype(np.int16).tobytes())
 
 
+def hareketli_ort(x, win):
+    # kümülatif toplamla O(N) hareketli ortalama (ortalanmış)
+    c = np.cumsum(np.concatenate([[0.0], x.astype(np.float64)]))
+    y = (c[win:] - c[:-win]) / win
+    pad_l = win // 2
+    return np.concatenate([np.full(pad_l, y[0]), y, np.full(len(x) - len(y) - pad_l, y[-1])]).astype(np.float32)
+
+
 def hz(nota):
     # nota: MIDI numarası
     return 440.0 * 2 ** ((nota - 69) / 12)
@@ -286,6 +294,8 @@ def bolum_muzik(tur, sure):
     return out
 
 
+SFX_SEVIYE = {'can': .55, 'savas': .7, 'dalga': .8, 'koro': .8}
+
 BOLUM_TUR = {'Giriş': 'giris', 'Balıkçı': 'balikci', 'Keşiş': 'kesis', 'Asker': 'asker', 'Tüccar': 'tuccar',
              'Soylu': 'soylu', 'İmparator': 'imparator', 'Sonuç': 'sonuc'}
 
@@ -312,13 +322,10 @@ def main():
         muzik[a:b] += x[off:off + b - a]
     # müzik seviyesini normalize et
     muzik /= (np.sqrt(np.mean(muzik ** 2)) + 1e-9)
-    muzik *= 0.075
+    muzik *= 0.045
     # konuşmaya göre kısma (ducking)
-    env = np.abs(ses)
-    win = int(.25 * SR)
-    env = np.convolve(env, np.ones(win) / win, mode='same')
-    aktif = np.clip(env / 0.03, 0, 1)
-    aktif = np.convolve(aktif, np.ones(int(.5 * SR)) / int(.5 * SR), mode='same')
+    env = hareketli_ort(np.abs(ses), int(.25 * SR))
+    aktif = hareketli_ort(np.clip(env / 0.03, 0, 1), int(.5 * SR))
     duck = np.ones(N, np.float32)
     duck[:len(aktif)] = 1 - 0.45 * aktif
     muzik *= duck[:, None]
@@ -329,7 +336,7 @@ def main():
         for ad, ofs in s['sfx']:
             x = sfx(ad)
             a = int((s['bas'] + ofs) * SR); b = min(N, a + len(x))
-            efekt[a:b] += x[:b - a] * 0.55
+            efekt[a:b] += x[:b - a] * (0.4 * SFX_SEVIYE.get(ad, 1.0))
     # sonda müziği kıs
     fade = int(3 * SR); son = int(toplam * SR)
     muzik[son - fade:son] *= np.linspace(1, 0, fade)[:, None]; muzik[son:] = 0

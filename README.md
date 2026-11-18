@@ -10,9 +10,10 @@ Karakter, çizimler, müzik ve efektlerin tamamı bu depodaki kodla sıfırdan �
 
 | Dosya | Açıklama |
 |---|---|
-| `1453_istanbul_halki.mp4` | Final video (1920×1080, 30 fps, H.264 + AAC) |
+| `1453_istanbul_halki.mp4` | Final video (1920×1080, 30 fps, H.264 + AAC, ~10:44) |
 | `kapak.jpg` | YouTube kapak görseli (1280×720) |
 | `altyazi.srt` | Türkçe altyazı (YouTube'a ayrı yüklenebilir) |
+| `youtube.md` | Başlık önerileri, bölüm zaman damgalı açıklama, etiketler |
 | `../senaryo/senaryo.md` | Zaman damgalı okunabilir senaryo + kaynak notları |
 
 ## Yapı

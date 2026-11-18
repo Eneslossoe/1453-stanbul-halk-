@@ -1,0 +1,195 @@
+{
+ "baslik": "1453'te İstanbul'da olsaydın?",
+ "not": "Her öğe bir cümle/görsel. gorsel: uzun videodaki segment id + (isteğe bağlı) o segmentin cümle sırası + saniye kayması.",
+ "ogeler": [
+  {
+   "metin": "1453'te İstanbul'da yaşasaydın, kaderini tek bir şey belirlerdi: kim olduğun.",
+   "bant": "1453",
+   "gorsel": {
+    "id": "g01",
+    "ofs": 0.3
+   },
+   "sfx": [
+    [
+     "davul",
+     0.0
+    ]
+   ]
+  },
+  {
+   "metin": "Yoksul bir balıkçıysan, geceleri yıkılan surları onarırsın.",
+   "bant": "RÜTBE 1 · BALIKÇI",
+   "rutbe": 1,
+   "gorsel": {
+    "id": "b06",
+    "cumle": 2,
+    "ofs": 0.6
+   },
+   "sfx": [
+    [
+     "whoosh",
+     0.0
+    ]
+   ]
+  },
+  {
+   "metin": "Şehir düşünce esir düşersin, şanslıysan evine dönersin.",
+   "bant": "RÜTBE 1 · BALIKÇI",
+   "rutbe": 1,
+   "gorsel": {
+    "id": "b10",
+    "cumle": 2,
+    "ofs": 0.8
+   }
+  },
+  {
+   "metin": "Keşişsen, yere düşen kutsal ikonayı kötü alamet sayarsın.",
+   "bant": "RÜTBE 2 · KEŞİŞ",
+   "rutbe": 2,
+   "gorsel": {
+    "id": "k06",
+    "ofs": 0.2
+   },
+   "sfx": [
+    [
+     "whoosh",
+     0.0
+    ]
+   ]
+  },
+  {
+   "metin": "Ama Sultan, bir keşişi patrik yapar.",
+   "bant": "RÜTBE 2 · KEŞİŞ",
+   "rutbe": 2,
+   "gorsel": {
+    "id": "k07",
+    "cumle": 2,
+    "ofs": 0.4
+   }
+  },
+  {
+   "metin": "Sur askeriysen, yedi bin kişiyle seksen bin kişiye karşı durursun.",
+   "bant": "RÜTBE 3 · SUR ASKERİ",
+   "rutbe": 3,
+   "gorsel": {
+    "id": "a03",
+    "cumle": 2,
+    "ofs": 0.0
+   },
+   "sfx": [
+    [
+     "whoosh",
+     0.0
+    ]
+   ],
+   "zoom": 0.88
+  },
+  {
+   "metin": "Orban'ın dev topu, bin yıllık surları parçalar.",
+   "bant": "RÜTBE 3 · SUR ASKERİ",
+   "rutbe": 3,
+   "gorsel": {
+    "id": "a05",
+    "ofs": 3.4
+   },
+   "sfx": [
+    [
+     "top",
+     0.9
+    ],
+    [
+     "tas",
+     1.5
+    ]
+   ],
+   "zoom": 0.82
+  },
+  {
+   "metin": "Venedikli tüccarsan, gemilerin karadan Haliç'e indiğini görürsün.",
+   "bant": "RÜTBE 4 · TÜCCAR",
+   "rutbe": 4,
+   "gorsel": {
+    "id": "t05",
+    "cumle": 2,
+    "ofs": 0.4
+   },
+   "sfx": [
+    [
+     "whoosh",
+     0.0
+    ]
+   ]
+  },
+  {
+   "metin": "Ama son gün, bir gemiye atlayıp kaçabilirsin.",
+   "bant": "RÜTBE 4 · TÜCCAR",
+   "rutbe": 4,
+   "gorsel": {
+    "id": "t06",
+    "cumle": 1,
+    "ofs": -1.2
+   },
+   "odak": 900
+  },
+  {
+   "metin": "Soyluysan, servetini toprağa gömersin.",
+   "bant": "RÜTBE 5 · SOYLU",
+   "rutbe": 5,
+   "gorsel": {
+    "id": "s03",
+    "cumle": 1,
+    "ofs": 0.3
+   },
+   "sfx": [
+    [
+     "whoosh",
+     0.0
+    ]
+   ]
+  },
+  {
+   "metin": "Sultan sorar: bu serveti neden imparatoruna vermedin?",
+   "bant": "RÜTBE 5 · SOYLU",
+   "rutbe": 5,
+   "gorsel": {
+    "id": "s04",
+    "cumle": 4,
+    "ofs": -0.4
+   }
+  },
+  {
+   "metin": "Ve imparatorsan, tacını çıkarıp savaşa dalarsın.",
+   "bant": "RÜTBE 6 · İMPARATOR",
+   "rutbe": 6,
+   "gorsel": {
+    "id": "i06",
+    "ofs": 1.5
+   },
+   "sfx": [
+    [
+     "whoosh",
+     0.0
+    ]
+   ]
+  },
+  {
+   "metin": "Ve bir daha, asla görülmezsin.",
+   "bant": "RÜTBE 6 · İMPARATOR",
+   "rutbe": 6,
+   "gorsel": {
+    "id": "i06",
+    "ofs": 8.6
+   }
+  },
+  {
+   "metin": "Sen hangisi olurdun? Tam video kanalımızda!",
+   "bant": "SEN HANGİSİ OLURDUN?",
+   "gorsel": {
+    "id": "f04",
+    "cumle": 4,
+    "ofs": 0.6
+   },
+   "zoom": 0.83
+  }
+ ]
+}

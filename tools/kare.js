@@ -7,10 +7,10 @@ const fs = require('fs');
 (async () => {
   const [hedef, ...istekler] = process.argv.slice(2);
   const browser = await chromium.launch();
-  const page = await browser.newPage({ viewport: { width: 1920, height: 1080 }, deviceScaleFactor: 1 });
+  const page = await browser.newPage({ viewport: { width: +(process.env.GEN || 1920), height: +(process.env.YUK || 1080) }, deviceScaleFactor: 1 });
   page.on('pageerror', e => console.error('SAYFA HATASI:', e.message));
   page.on('console', m => { if (m.type() === 'error') console.error('KONSOL:', m.text()); });
-  await page.goto('file://' + path.resolve(__dirname, '../video/index.html'));
+  await page.goto('file://' + path.resolve(__dirname, '../video/' + (process.env.SAYFA || 'index.html')));
   await page.evaluate(() => window.hazir);
   const coklu = istekler.length > 1 || fs.existsSync(hedef) && fs.statSync(hedef).isDirectory();
   if (coklu) fs.mkdirSync(hedef, { recursive: true });
@@ -22,7 +22,7 @@ const fs = require('fs');
       ad = id + '@' + tl;
     } else if (ist.startsWith('t:')) {
       const T = parseFloat(ist.slice(2));
-      await page.evaluate(T => window.renderAt(T), T);
+      await page.evaluate(([T, fn]) => window[fn](T), [T, process.env.FONK || 'renderAt']);
       ad = 't' + T.toFixed(1);
     } else {
       const m = ist.match(/^sahne:([^@]+)@([\d.]+)(?::([\d.]+))?(?::(.*))?$/);

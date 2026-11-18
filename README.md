@@ -11,6 +11,8 @@ Karakter, çizimler, müzik ve efektlerin tamamı bu depodaki kodla sıfırdan �
 | Dosya | Açıklama |
 |---|---|
 | `1453_istanbul_halki.mp4` | Final video (1920×1080, 30 fps, H.264 + AAC, ~10:41) |
+| `reels_1453.mp4` | Dikey Reels/Shorts sürümü (1080×1920, 54 sn, gömülü altyazı) |
+| `reels.md` | Reels açıklaması ve etiketler |
 | `kapak.jpg` | YouTube kapak görseli (1280×720) |
 | `altyazi.srt` | Türkçe altyazı (YouTube'a ayrı yüklenebilir) |
 | `youtube.md` | Başlık önerileri, bölüm zaman damgalı açıklama, etiketler |
@@ -44,6 +46,9 @@ tools/render_hepsi.sh 3 30          # tüm bölümler; yalnız bazıları için:
 # 4) Birleştirme
 ffmpeg -i build/video_sessiz.mp4 -i build/final_ses.wav -c:v copy -c:a aac -b:a 192k -shortest cikti/1453_istanbul_halki.mp4
 ```
+
+Reels: `python3 tools/reels_tts.py --model ... --hiz 1.0 && python3 tools/reels_muzik.py`, ardından
+`SAYFA=dikey.html FONK=renderDikey GEN=1080 YUK=1920 node tools/render.js build/reels/video.mp4 0 <süre> 30` ve ses ile birleştir.
 
 Tek bir sahneye bakmak için: `node tools/kare.js onizleme.png id:a05@5` (segment `a05`, 5. saniye).
 

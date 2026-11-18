@@ -322,12 +322,12 @@ def main():
         muzik[a:b] += x[off:off + b - a]
     # müzik seviyesini normalize et
     muzik /= (np.sqrt(np.mean(muzik ** 2)) + 1e-9)
-    muzik *= 0.045
+    muzik *= 0.02   # konuşmanın belirgin şekilde altında
     # konuşmaya göre kısma (ducking)
     env = hareketli_ort(np.abs(ses), int(.25 * SR))
     aktif = hareketli_ort(np.clip(env / 0.03, 0, 1), int(.5 * SR))
     duck = np.ones(N, np.float32)
-    duck[:len(aktif)] = 1 - 0.45 * aktif
+    duck[:len(aktif)] = 1 - 0.7 * aktif
     muzik *= duck[:, None]
     # rütbe kartlarında küçük vurgu: müziği biraz yükselt
     # efektler
@@ -336,7 +336,7 @@ def main():
         for ad, ofs in s['sfx']:
             x = sfx(ad)
             a = int((s['bas'] + ofs) * SR); b = min(N, a + len(x))
-            efekt[a:b] += x[:b - a] * (0.4 * SFX_SEVIYE.get(ad, 1.0))
+            efekt[a:b] += x[:b - a] * (0.2 * SFX_SEVIYE.get(ad, 1.0))
     # sonda müziği kıs
     fade = int(3 * SR); son = int(toplam * SR)
     muzik[son - fade:son] *= np.linspace(1, 0, fade)[:, None]; muzik[son:] = 0

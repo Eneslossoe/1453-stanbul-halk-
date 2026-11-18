@@ -10,7 +10,7 @@ Karakter, çizimler, müzik ve efektlerin tamamı bu depodaki kodla sıfırdan �
 
 | Dosya | Açıklama |
 |---|---|
-| `1453_istanbul_halki.mp4` | Final video (1920×1080, 30 fps, H.264 + AAC, ~10:44) |
+| `1453_istanbul_halki.mp4` | Final video (1920×1080, 30 fps, H.264 + AAC, ~10:41) |
 | `kapak.jpg` | YouTube kapak görseli (1280×720) |
 | `altyazi.srt` | Türkçe altyazı (YouTube'a ayrı yüklenebilir) |
 | `youtube.md` | Başlık önerileri, bölüm zaman damgalı açıklama, etiketler |
@@ -20,7 +20,7 @@ Karakter, çizimler, müzik ve efektlerin tamamı bu depodaki kodla sıfırdan �
 
 ```
 senaryo/senaryo.json   # metin, sahne adı, efekt listesi (tek kaynak)
-tools/tts.py           # Piper (tr_TR-fettah-medium) ile seslendirme + timeline + SRT
+tools/tts.py           # Piper (tr_TR-dfki-medium, kalın erkek sesi) ile seslendirme + timeline + SRT
 tools/muzik.py         # sentez müzik (pad, koro, ud/kanun benzeri tel, davul) + efektler
 video/*.js             # SVG çizim motoru: karakter, sahneler, harita, motor
 tools/kare.js          # tek kare önizleme
@@ -31,9 +31,9 @@ tools/render_hepsi.sh  # bölümleri paralel render edip birleştirir
 ## Yeniden üretme
 
 ```bash
-# 1) Seslendirme (Piper sesi: sherpa-onnx tts-models sürümündeki vits-piper-tr_TR-fettah-medium)
+# 1) Seslendirme (Piper sesi: sherpa-onnx tts-models sürümündeki vits-piper-tr_TR-dfki-medium)
 pip install piper-tts scipy
-python3 tools/tts.py --model /yol/tr_TR-fettah-medium.onnx --hiz 0.93
+python3 tools/tts.py --model /yol/tr_TR-dfki-medium.onnx --hiz 1.0
 
 # 2) Müzik ve efektler
 python3 tools/muzik.py

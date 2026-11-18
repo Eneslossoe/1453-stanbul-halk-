@@ -1,6 +1,6 @@
 {
   "baslik": "1453'te İstanbul Halkından Olsaydın Ne Olurdu?",
-  "ses_modeli": "tr_TR-fettah-medium",
+  "ses_modeli": "tr_TR-dfki-medium",
   "segmentler": [
     {"id": "g01", "bolum": "Giriş", "sahne": "acilis_ordu", "sfx": [["davul", 0.2]],
      "metin": "29 Mayıs 1453, şafak vakti. Bin yıldır karadan hiçbir ordunun aşamadığı surların önünde, seksen bin kişilik bir ordu son saldırı emrini bekliyor."},

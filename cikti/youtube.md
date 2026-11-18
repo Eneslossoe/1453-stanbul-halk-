@@ -14,13 +14,13 @@ Sen hangisi olmak isterdin? Yorumlara yaz!
 
 Bölümler:
 00:00 Giriş: 29 Mayıs 1453
-00:42 Rütbe 1: Yoksul Balıkçı
-02:35 Rütbe 2: Keşiş
-04:03 Rütbe 3: Sur Askeri
+00:41 Rütbe 1: Yoksul Balıkçı
+02:34 Rütbe 2: Keşiş
+04:01 Rütbe 3: Sur Askeri
 05:42 Rütbe 4: Venedikli Tüccar
-07:06 Rütbe 5: Bizans Soylusu
-08:08 Rütbe 6: İmparator
-09:38 Sonuç: Fatih ve yeni İstanbul
+07:05 Rütbe 5: Bizans Soylusu
+08:05 Rütbe 6: İmparator
+09:34 Sonuç: Fatih ve yeni İstanbul
 
 Not: Kerkoporta hikâyesi, Ulubatlı Hasan anlatısı ve bazı sözler rivayet/gelenek olarak aktarılmıştır.
 Kaynaklar: Dukas, Sphrantzes, Kritovulos, Nicolò Barbaro; S. Runciman, "Konstantinopolis'in Düşüşü 1453".
